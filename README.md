@@ -1,6 +1,5 @@
 - Hi, I’m @nikiexpo
 - Absolute beginner 
--  I’m interested in Machine learning, Fintech
 -  I’m currently learning Python
 
 <!---
