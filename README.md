@@ -1,6 +1,6 @@
 - Hi, I’m @nikiexpo
-- Absolute beginner 
--  I’m currently learning Python
+- beginner
+- C++/C, Python
 
 <!---
 nikiexpo/nikiexpo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
