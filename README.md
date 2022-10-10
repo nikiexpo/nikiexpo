@@ -1,6 +1,5 @@
 - Hi, I’m @nikiexpo
-- beginner
-- C++/C, Python
+- C++/C, Python, MATLAB
 
 <!---
 nikiexpo/nikiexpo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
