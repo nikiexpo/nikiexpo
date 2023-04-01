@@ -1,5 +1,11 @@
-- Hi, I’m @nikiexpo
-- C++/C, Python, MATLAB
+Aerospace Engineering Student at University of Sheffield
+
+- Main interests 
+    - Control Engineering
+    - Embedded Systems
+    - Simulations
+
+
 
 <!---
 nikiexpo/nikiexpo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
